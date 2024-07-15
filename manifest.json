@@ -1,0 +1,14 @@
+{
+    "name": "Sudoku Solver",
+    "short_name": "Sodoku Solver",
+    "icons": [
+        {
+            "src": "./assets/1501673",
+            "sizes": "64x64",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/Sodoku Solver/",
+    "display": "standalone",
+    "orientation": "portrait"
+}
