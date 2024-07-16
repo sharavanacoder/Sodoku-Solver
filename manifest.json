@@ -4,7 +4,7 @@
     "icons": [
         {
             "src": "./assets/1501673",
-            "sizes": "64x64",
+            "sizes": "256x256",
             "type": "image/png"
         }
     ],
