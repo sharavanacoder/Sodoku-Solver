@@ -10,5 +10,7 @@
     ],
     "start_url": "/Sodoku Solver/",
     "display": "standalone",
-    "orientation": "portrait"
+    "orientation": "portrait",
+    "theme_color": "#181c25",
+    "background_color": "#181c25"
 }
